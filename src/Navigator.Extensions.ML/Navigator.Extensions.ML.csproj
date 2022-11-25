@@ -23,6 +23,7 @@
     </ItemGroup>
 
     <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.ML" Version="2.0.0" />
         <PackageReference Include="Navigator" Version="1.9.3-beta1" />
     </ItemGroup>
 
